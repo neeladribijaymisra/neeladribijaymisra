@@ -3,10 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-🚀 About Me  
-
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=About+Me&width=200&height=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+About+Me&width=200&height=30">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="40">
 </p>
 
 🎓 CSE Student | AI Engineer | ML Engineer | Full Stack Developer  
@@ -31,10 +30,9 @@ Tools: VS Code, Git & GitHub, Docker (Basics)
 ---
 
 📢 Let's Connect  
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="80">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Neeladri-black?style=for-the-badge&logo=github)](https://github.com/neeladribijaymisra)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neeladri-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neeladri-bijay-misra-1bb0812b9/)
+[![GitHub](https://img.shields.io/badge/GitHub-Neeladri-black?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neeladri-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-USERNAME)
 
 ---
 
