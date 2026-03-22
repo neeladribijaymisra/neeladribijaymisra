@@ -30,8 +30,8 @@
 
 ## 📢 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Neeladri-black?style=flat&logo=github)](https://github.com/YOUR-USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neeladri-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Neeladri-black?style=flat&logo=github)](https://github.com/neeladribijaymisra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neeladri-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/neeladri-bijay-misra-1bb0812b9/)
 
 ---
 
