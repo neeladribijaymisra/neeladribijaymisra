@@ -5,7 +5,7 @@
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+About+Me&width=150&height=30"> <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="35">
+## <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+About+Me&width=150&height=30">
 
 - 🎓 CSE Student | AI Engineer | ML Engineer | Full Stack Developer  
 - 💻 Passionate about Full Stack Development & AI  
