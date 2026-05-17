@@ -75,15 +75,15 @@ Focused on Vision Models, AI-powered automation, and intelligent system developm
 
 <p>
   <a href="https://github.com/neeladribijaymisra">
-    <img src="https://img.shields.io/badge/GitHub-neeladribijaymisra-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/neeladri-bijay-misra-1bb0812b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Neeladri_Bijay_Misra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:neeladribijaymisra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-neeladribijaymisra@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
