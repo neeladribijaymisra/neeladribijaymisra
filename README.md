@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
-### Full Stack Developer • AI/ML Engineer • Vision Model Researcher • Intelligent Systems Builder
+### Full Stack Developer • AI/ML Engineer • Researcher • Intelligent Systems Builder
 
 I’m a Computer Science undergraduate passionate about building scalable full-stack applications and AI-powered intelligent systems that solve real-world problems.
 
